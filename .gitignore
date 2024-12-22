@@ -1,0 +1,16 @@
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore PDM environment-specific files
+.pdm-python
+
+# Ignore virtual environments if created in the project folder
+.venv/
+__pycache__/
+
+# Ignore temporary/compiled files
+*.pyc
+*.pyo
+*.pyd
+*.swp
+
